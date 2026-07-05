@@ -1,0 +1,12 @@
+# Environment files (contains secrets - never commit)
+.env
+backend/.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node/Next.js
+node_modules/
+.next/
